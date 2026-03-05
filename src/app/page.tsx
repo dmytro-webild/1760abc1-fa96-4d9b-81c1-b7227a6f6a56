@@ -137,7 +137,7 @@ export default function LandingPage() {
           description="Profissionais especializados em engenharia, energia solar e sistemas térmicos"
           members={[
             {
-              id: "1",              name: "Carlos Mendes",              role: "Engenheiro Sênior",              description: "20 anos de experiência em projetos de energia solar residencial",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg?_wi=1",              socialLinks: [
+              id: "1",              name: "Carlos Mendes",              role: "Engenheiro Sênior",              description: "20 anos de experiência em projetos de energia solar residencial",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772736547180-n2mb6cra.jpg",              socialLinks: [
                 {
                   icon: Linkedin,
                   url: "https://linkedin.com"},
