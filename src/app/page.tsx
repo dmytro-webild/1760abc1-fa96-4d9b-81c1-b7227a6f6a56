@@ -52,11 +52,11 @@ export default function LandingPage() {
           ]}
           slides={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-boo53a04.jpg",              imageAlt: "Painéis solares em residência moderna"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-boo53a04.jpg?_wi=1",              imageAlt: "Painéis solares em residência moderna"},
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg",              imageAlt: "Sistema de aquecimento solar instalado"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg?_wi=1",              imageAlt: "Sistema de aquecimento solar instalado"},
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-0y55zbip.jpg",              imageAlt: "Escritório MWR Engenharia"},
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-0y55zbip.jpg?_wi=1",              imageAlt: "Escritório MWR Engenharia"},
           ]}
           autoplayDelay={5000}
           showDimOverlay={true}
@@ -71,23 +71,23 @@ export default function LandingPage() {
             {
               id: 1,
               title: "Energia Solar Fotovoltaica",              description: "Instalação de sistemas para geração de energia solar residencial com tecnologia de ponta",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-boo53a04.jpg"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-boo53a04.jpg?_wi=2"},
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg?_wi=2"},
             },
             {
               id: 2,
               title: "Aquecimento Solar de Água",              description: "Soluções eficientes para aquecimento de água com energia solar, reduzindo custos",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg?_wi=3"},
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-hefr373n.jpg"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-hefr373n.jpg?_wi=1"},
             },
             {
               id: 3,
               title: "Aquecimento de Piscina",              description: "Sistemas de aquecimento solar e trocadores de calor para maior conforto",              phoneOne: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-0y55zbip.jpg"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-0y55zbip.jpg?_wi=2"},
               phoneTwo: {
-                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-m6xoehft.jpg"},
+                imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-m6xoehft.jpg?_wi=1"},
             },
           ]}
           showStepNumbers={true}
@@ -114,15 +114,15 @@ export default function LandingPage() {
           description="Expertise técnica e atendimento premium que garantem seus projetos"
           products={[
             {
-              id: "1",              name: "Equipe Técnica Especializada",              price: "Expertise Premium",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-boo53a04.jpg"},
+              id: "1",              name: "Equipe Técnica Especializada",              price: "Expertise Premium",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-boo53a04.jpg?_wi=3"},
             {
-              id: "2",              name: "Equipamentos de Alta Qualidade",              price: "Primeira Linha",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg"},
+              id: "2",              name: "Equipamentos de Alta Qualidade",              price: "Primeira Linha",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-4rkyszju.jpg?_wi=4"},
             {
-              id: "3",              name: "Projetos Personalizados",              price: "Sob Medida",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-hefr373n.jpg"},
+              id: "3",              name: "Projetos Personalizados",              price: "Sob Medida",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-hefr373n.jpg?_wi=2"},
             {
-              id: "4",              name: "Instalação Profissional",              price: "Certificada",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-0y55zbip.jpg"},
+              id: "4",              name: "Instalação Profissional",              price: "Certificada",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-0y55zbip.jpg?_wi=3"},
             {
-              id: "5",              name: "Suporte Pós-Venda",              price: "24/7 Atencioso",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-m6xoehft.jpg"},
+              id: "5",              name: "Suporte Pós-Venda",              price: "24/7 Atencioso",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AX2VppTtnuttzyDIZfEQzhVaYa/uploaded-1772724757410-m6xoehft.jpg?_wi=2"},
           ]}
           gridVariant="three-columns-all-equal-width"
           animationType="slide-up"
@@ -137,7 +137,7 @@ export default function LandingPage() {
           description="Profissionais especializados em engenharia, energia solar e sistemas térmicos"
           members={[
             {
-              id: "1",              name: "Carlos Mendes",              role: "Engenheiro Sênior",              description: "20 anos de experiência em projetos de energia solar residencial",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg",              socialLinks: [
+              id: "1",              name: "Carlos Mendes",              role: "Engenheiro Sênior",              description: "20 anos de experiência em projetos de energia solar residencial",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg?_wi=1",              socialLinks: [
                 {
                   icon: Linkedin,
                   url: "https://linkedin.com"},
@@ -151,14 +151,14 @@ export default function LandingPage() {
               ],
             },
             {
-              id: "3",              name: "Roberto Santos",              role: "Técnico de Instalação",              description: "Certificado em instalações solares com mais de 15 anos no mercado",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg",              socialLinks: [
+              id: "3",              name: "Roberto Santos",              role: "Técnico de Instalação",              description: "Certificado em instalações solares com mais de 15 anos no mercado",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg?_wi=2",              socialLinks: [
                 {
                   icon: Linkedin,
                   url: "https://linkedin.com"},
               ],
             },
             {
-              id: "4",              name: "Juliana Costa",              role: "Gerente de Projetos",              description: "Coordena todos os projetos desde orçamento até pós-venda",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg",              socialLinks: [
+              id: "4",              name: "Juliana Costa",              role: "Gerente de Projetos",              description: "Coordena todos os projetos desde orçamento até pós-venda",              imageSrc: "http://img.b2bpic.net/free-photo/young-workman-wearing-white-hard-hat_1303-26649.jpg?_wi=3",              socialLinks: [
                 {
                   icon: Linkedin,
                   url: "https://linkedin.com"},
@@ -197,16 +197,16 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",              name: "João Martinez",              role: "Proprietário",              company: "Residência Indaiatuba",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg?_wi=1"},
             {
               id: "2",              name: "Fernanda Costa",              role: "Coordenadora",              company: "Casa Residencial",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg?_wi=2"},
             {
               id: "3",              name: "Pedro Oliveira",              role: "Proprietário",              company: "Condomínio Premium",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg?_wi=3"},
             {
               id: "4",              name: "Marisa Souza",              role: "Gerente",              company: "Edifício Sustentável",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg"},
+              imageSrc: "http://img.b2bpic.net/free-photo/smiling-man-sitting-cafe-table-gesturing_1262-1141.jpg?_wi=4"},
           ]}
           kpiItems={[
             { value: "70+", label: "Avaliações no Google" },
